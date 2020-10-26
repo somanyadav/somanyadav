@@ -1,8 +1,5 @@
 ### Hi there, I'm [Soman Yadav][website] 👋
 
-[![Website](https://img.shields.io/website?label=Soman Yadav.com&style=for-the-badge&url=https%3A%2F%2FSoman Yadav.com)](https://somanyadav.github.io/Portfolio/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Soman Yadav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSoman Yadav&screen_name=Soman Yadav)
-
 ## I'm a Student, Mentor, Developer, and Blogger!!
 
 - 🔭 I am a CSE undergrad
