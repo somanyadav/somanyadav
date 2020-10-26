@@ -39,9 +39,8 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
+  [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
 </details>
 
 [website]: https://somanyadav.github.io/Portfolio/
