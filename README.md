@@ -37,11 +37,10 @@
 
 ➡️ [more blog posts...](https://somanyadav.github.io/Portfolio/)
 
-
-<details>
+### Github Stats
 
   [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
-</details>
+
 
 [website]: https://somanyadav.github.io/Portfolio/
 [twitter]: https://twitter.com/therealsoman
