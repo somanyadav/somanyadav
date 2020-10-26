@@ -18,6 +18,7 @@
 
 <br />
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -29,6 +30,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -36,6 +38,7 @@
 - [This is how social media sites play with Young Minds!](https://medium.com/@somanyadav/this-is-how-social-media-sites-play-with-young-minds-5cecf3c78a55)
 
 ➡️ [more blog posts...](https://somanyadav.github.io/Portfolio/)
+
 
 ### Github Stats
 
