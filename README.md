@@ -40,7 +40,7 @@
   [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
 
 
-[website]: https://somanyadav.github.io/Portfolio/
+[website]: https://github.com/somanyadav/
 [twitter]: https://twitter.com/therealsoman
 [instagram]: https://www.instagram.com/_i_wish_i__/
 [linkedin]: https://www.linkedin.com/in/somanyadav/
