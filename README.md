@@ -45,3 +45,4 @@
 [twitter]: https://twitter.com/therealsoman
 [instagram]: https://www.instagram.com/_i_wish_i__/
 [linkedin]: https://www.linkedin.com/in/somanyadav/
+[snapchat]: https://www.snapchat.com/add/yadavsoman
