@@ -13,7 +13,8 @@ I'm a Student, Mentor, Developer, and Blogger!!
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=somanyadav&show_icons=true&count_private=true&theme=dark" width="450"></a>
 </p>
-
+<br>
+<br>
 
 - 🔭 I am a CSE undergrad
 - 🌱  I’m currently learning anything possible, because I love learning!!!
@@ -21,7 +22,8 @@ I'm a Student, Mentor, Developer, and Blogger!!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can solve a Rubik's Cube within 2 minutes!
 - 💬 Ask me about Web Development & Design and Python!.
-
+<br>
+<br>
 
 
 ### Languages and Tools:
@@ -37,7 +39,7 @@ I'm a Student, Mentor, Developer, and Blogger!!
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
  </center>
 <br>
- <br>
+<br>
 
 ### 📕 Latest Blog Posts
 
