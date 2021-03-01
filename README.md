@@ -37,8 +37,7 @@ I'm a Student, Mentor, Developer, and Blogger!!
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
  </center>
 <br>
- 
-
+ <br>
 
 ### 📕 Latest Blog Posts
 
