@@ -43,11 +43,6 @@
 
 ### Github Stats
 
-  [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
+  [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav&show_icons=true&count_private=true&theme=dark)](https://github.com/somanyadav/github-readme-stats)
 
 
-[website]: https://github.com/somanyadav/
-[twitter]: https://twitter.com/therealsoman
-[instagram]: https://www.instagram.com/_i_wish_i__/
-[linkedin]: https://www.linkedin.com/in/somanyadav/
-[snapchat]: https://www.snapchat.com/add/yadavsoman
