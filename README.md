@@ -21,7 +21,7 @@
 
 
 ### Languages and Tools:
-
+<center>
 <img  src="https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white"/>
 <img  src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/>
 <img  src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -33,6 +33,7 @@
 <img  src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ </center>
 <br/>
  
 
