@@ -1,6 +1,10 @@
-# Hi there, I'm Soman Yadav👋
+<h1 align='center'> 
+Hi there, I'm Soman Yadav👋 
+</h1>
 
-## I'm a Student, Mentor, Developer, and Blogger!!
+<h2 align='center'> 
+I'm a Student, Mentor, Developer, and Blogger!!
+</h2>
 <p align='center'>
 <a href="https://github.com/somanyadav/"><img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" height=25></a>              <a href="https://www.linkedin.com/in/somanyadav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25></a>   <a href="https://www.instagram.com/beingsoman/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white" height=25></a> 
 
