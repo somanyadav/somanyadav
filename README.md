@@ -12,7 +12,7 @@
 
 
 - 🔭 I am a CSE undergrad
-- 🌱 I’m currently learning everything 🤣
+- 🌱  I’m currently learning anything possible, because I love learning!!!
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can solve a Rubik's Cube within 2 minutes!
