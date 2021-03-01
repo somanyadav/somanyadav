@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play piano
+- ⚡ Fun fact: I can solve a Rubik's Cube within 2 minutes!
 
 
 ### Connect with me:
