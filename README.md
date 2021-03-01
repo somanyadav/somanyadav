@@ -16,6 +16,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can solve a Rubik's Cube within 2 minutes!
+- 💬 Ask me about Web Development & Design and Python!.
 
 
 ### Connect with me:
