@@ -6,6 +6,10 @@
 
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=somanyadav&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 
 - 🔭 I am a CSE undergrad
 - 🌱 I’m currently learning everything 🤣
@@ -41,8 +45,6 @@
   ➡️ [more blog posts...](https://somanyadav.github.io/Portfolio/#featured)
 
 
-### Github Stats
 
-  [![Soman's github stats](https://github-readme-stats.vercel.app/api?username=somanyadav&show_icons=true&count_private=true&theme=dark)](https://github.com/somanyadav/github-readme-stats)
 
 
