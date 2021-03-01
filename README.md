@@ -1,4 +1,4 @@
-# Hi there, I'm [Soman Yadav][website] 👋
+# Hi there, I'm Soman Yadav👋
 
 ## I'm a Student, Mentor, Developer, and Blogger!!
 <p align='center'>
