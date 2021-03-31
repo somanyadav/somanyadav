@@ -1,5 +1,5 @@
 <h1 align='center'> 
-Hi there<span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=10></span>, I'm Soman Yadav 
+Hi there<span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=50></span>, I'm Soman Yadav 
 </h1>
 
 <h2 align='center'> 
