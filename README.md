@@ -45,7 +45,7 @@ I'm a Student, Mentor, Developer, and Blogger!!
 - [Smartphone: A device which is not yours as soon as you turn it on](https://medium.com/@somanyadav/smartphone-a-device-which-is-not-yours-as-soon-as-you-turn-it-on-a4368d7815a9)
 - [This is how social media sites play with Young Minds!](https://medium.com/@somanyadav/this-is-how-social-media-sites-play-with-young-minds-5cecf3c78a55)
 
-  ➡️ more blog posts coming soon...
+  <a href="https://soman-yadav.github.io/soman/" ➡️ more blog posts coming soon...</a>
 
 
 
