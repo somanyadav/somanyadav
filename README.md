@@ -1,30 +1,23 @@
-<h1 align='center'> 
-Hi there<span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=50></span>, I'm Soman Yadav 
-</h1>
+<h2> Hi, I'm Soman! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="75"> </h2>
 
-<h2 align='center'> 
-I'm a Student, Mentor, Developer, and Blogger!!
-</h2>
-<p align='center'>
-<a href="https://github.com/somanyadav/"><img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" height=25></a>              <a href="https://www.linkedin.com/in/somanyadav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25></a>   <a href="https://www.instagram.com/beingsoman/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white" height=25></a> 
+<img align='right' src="https://media.giphy.com/media/5SBHHslw9yXEy4tmvf/giphy.gif" width="230">
 
-</p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=somanyadav&show_icons=true&count_private=true&theme=dark" width="690"></a>
-</p>
-<br>
-<br>
+A recent college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
-- 🔭 I am a CSE undergrad
-- 🌱  I’m currently learning anything possible, because I love learning!!!
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I can solve a Rubik's Cube within 2 minutes!
-- 💬 Ask me about Web Development & Design and Python!.
-<br>
-<br>
+<h2> 📬 Connect with me. </h2>
 
+<a href="https://www.linkedin.com/in/somanyadav/">
+  <img align="left" alt="Vasu's LinkedIn" src="https://img.icons8.com/doodle/46/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/therealsoman">
+  <img align="left" alt="Soman's Twitter" src="https://img.icons8.com/doodle/48/000000/twitter.png"/>
+</a>
+
+<a href="mailto:somanyadavofficial@gmail.com">
+  <img align="left" alt="Soman's Email" src="https://img.icons8.com/dusk/48/000000/gmail-login.png"/>
+</a>
 
 ### Languages and Tools:
 
