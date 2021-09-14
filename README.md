@@ -21,8 +21,9 @@ A recent college undergrad in major Computer Science with proficient technical a
 
 <br>
 <br>
+<br>
 
-### Languages and Tools:
+<h2> Languages and Tools: </h2>
 
 <img align="right" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
