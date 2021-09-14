@@ -19,6 +19,8 @@ A recent college undergrad in major Computer Science with proficient technical a
   <img align="left" alt="Soman's Email" src="https://img.icons8.com/dusk/48/000000/gmail-login.png"/>
 </a>
 
+<br>
+
 ### Languages and Tools:
 
 <img align="right" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
