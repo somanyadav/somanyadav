@@ -44,7 +44,7 @@ A recent college undergrad in major Computer Science with proficient technical a
 
   <a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
 
 
 
