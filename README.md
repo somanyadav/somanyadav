@@ -44,8 +44,15 @@ A recent college undergrad in major Computer Science with proficient technical a
 
   <a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
 
-[![Soman's GitHub stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=somanyadav&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true">
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true" />
+</a>
+</p>
+
 
 ![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
