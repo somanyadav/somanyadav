@@ -47,7 +47,7 @@ A recent college undergrad in major Computer Science with proficient technical a
 [![Soman's GitHub stats](https://github-readme-stats.vercel.app/api?username=somanyadav)](https://github.com/somanyadav/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=somanyadav&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 ![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
 
