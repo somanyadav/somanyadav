@@ -16,7 +16,7 @@ A recent college undergrad in major Computer Science with proficient technical a
 </a>
 
 <a href="mailto:somanyadavofficial@gmail.com">
-  <img align="left" alt="Soman's Email" src="https://img.icons8.com/dusk/48/000000/gmail-login.png"/>
+  <img align="left" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="48" width="48"/>
 </a>
 
 <br>
