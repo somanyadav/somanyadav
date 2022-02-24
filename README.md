@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=29&lines=Hi%2C+I'm+Soman!)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="75"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=29&lines=Hi%2C+I'm+Soman!)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="75"> 
 
 <img align='right' src="https://media.giphy.com/media/5SBHHslw9yXEy4tmvf/giphy.gif" width="230">
 
