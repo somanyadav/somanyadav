@@ -56,9 +56,10 @@ A recent college undergrad in major Computer Science with proficient technical a
 </p>
 
 
-
+<p align="center">
 ![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p> 
 ![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
 
 
