@@ -19,6 +19,10 @@ A recent college undergrad in major Computer Science with proficient technical a
   <img align="left" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="52" width="52"/>
 </a>
 
+<a href="SomanYadav#5507">
+  <img align="left" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="48" width="48"/>
+</a>
+
 <br>
 <br>
 <br>
