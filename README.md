@@ -8,11 +8,11 @@ A recent college undergrad in major Computer Science with proficient technical a
 <h2> 📬 Connect with me. </h2>
 
 <a href="https://www.linkedin.com/in/somanyadav/">
-  <img align="left" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"/>
+  <img align="left" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="48" width="48"/>
 </a>
 
 <a href="https://twitter.com/therealsoman">
-  <img align="left" alt="Soman's Twitter" src="https://img.icons8.com/doodle/48/000000/twitter.png"  height="48" width="48""/>
+  <img align="left" alt="Soman's Twitter" src="https://img.icons8.com/doodle/48/000000/twitter.png"/>
 </a>
 
 <a href="mailto:somanyadavofficial@gmail.com">
