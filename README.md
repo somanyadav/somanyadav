@@ -12,7 +12,7 @@ A recent college undergrad in major Computer Science with proficient technical a
 </a>
 
 <a href="https://twitter.com/therealsoman">
-  <img align="left" alt="Soman's Twitter" src="https://img.icons8.com/doodle/48/000000/twitter.png"/>
+  <img align="left" alt="Soman's Twitter" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="48" width="48"/>
 </a>
 
 <a href="mailto:somanyadavofficial@gmail.com">
