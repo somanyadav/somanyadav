@@ -38,13 +38,11 @@ A recent college undergrad in major Computer Science with proficient technical a
 
 ### 📕 Latest Blog Posts
 
+[![Soman Yadav Medium](https://github-readme-medium.vercel.app/?username=somanyadav)](https://medium.com/@somanyadav)
 <!-- BLOG-POST-LIST:START -->
 - [Smartphone: A device which is not yours as soon as you turn it on](https://medium.com/@somanyadav/smartphone-a-device-which-is-not-yours-as-soon-as-you-turn-it-on-a4368d7815a9)
-- [This is how social media sites play with Young Minds!](https://medium.com/@somanyadav/this-is-how-social-media-sites-play-with-young-minds-5cecf3c78a55)
 
 <a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
-
-[![Soman Yadav Medium](https://github-readme-medium.vercel.app/?username=somanyadav)](https://medium.com/@somanyadav)
 
 
 <p align="center">
