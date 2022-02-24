@@ -42,7 +42,9 @@ A recent college undergrad in major Computer Science with proficient technical a
 - [Smartphone: A device which is not yours as soon as you turn it on](https://medium.com/@somanyadav/smartphone-a-device-which-is-not-yours-as-soon-as-you-turn-it-on-a4368d7815a9)
 - [This is how social media sites play with Young Minds!](https://medium.com/@somanyadav/this-is-how-social-media-sites-play-with-young-minds-5cecf3c78a55)
 
-  <a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
+<a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
+
+[![Visits Badge](https://badges.pufler.dev/visits/somanyadav/git-badges)](https://badges.pufler.dev)
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
@@ -52,6 +54,7 @@ A recent college undergrad in major Computer Science with proficient technical a
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true" />
 </a>
 </p>
+
 
 
 ![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
