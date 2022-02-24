@@ -37,14 +37,15 @@ A recent college undergrad in major Computer Science with proficient technical a
 <br>
 
 ### 📕 Latest Blog Posts
-
+<p align="center">
+  <a>
 [![Soman Yadav Medium](https://github-readme-medium.vercel.app/?username=somanyadav)](https://medium.com/@somanyadav)
-
+</a>
 <a href="https://soman-yadav.github.io/soman/"> ➡️ more blog posts coming soon...</a>
-
+</p>
 
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
+ href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true">
