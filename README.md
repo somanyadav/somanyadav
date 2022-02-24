@@ -60,8 +60,6 @@ A recent college undergrad in major Computer Science with proficient technical a
 </p>
 
 
-
-![Metrics](https://metrics.lecoq.io/somanyadav?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
   
 ![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
 
