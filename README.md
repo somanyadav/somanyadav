@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/5SBHHslw9yXEy4tmvf/giphy.gif" width="230">
 
-
+ 
 A recent college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
 <h2> 📬 Connect with me. </h2>
