@@ -12,7 +12,6 @@
 
 
 
-
 A recent college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
 <h2> 📬 Connect with me. </h2>
