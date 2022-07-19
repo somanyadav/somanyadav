@@ -5,19 +5,19 @@ A college undergrad in major Computer Science with proficient technical and prob
 <h2> 📬 Connect with me. </h2>
 
 <a href="https://www.linkedin.com/in/somanyadav/">
-  <img align="left" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="48" width="48"/>
+  <img align="center" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="48" width="48"/>
 </a>
 
 <a href="https://twitter.com/therealsoman">
-  <img align="left" alt="Soman's Twitter" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="48" width="48"/>
+  <img align="center" alt="Soman's Twitter" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="48" width="48"/>
 </a>
 
 <a href="mailto:somanyadavofficial@gmail.com">
-  <img align="left" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="52" width="52"/>
+  <img align="center" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="52" width="52"/>
 </a>
 
 <a href="SomanYadav#5507">
-  <img align="left" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="48" width="48"/>
+  <img align="center" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="48" width="48"/>
 </a>
 
 <br>
