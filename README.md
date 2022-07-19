@@ -45,8 +45,8 @@ A college undergrad in major Computer Science with proficient technical and prob
 <h2> 📬 Connect with me. </h2>
 <p align="center">
   <a href="https://www.google.com/"><img src="https://static.wixstatic.com/media/e00768_edb717df67294796868ee949e2c8bab9~mv2.gif" height="48" width="48" title:'Website' alt="Soman Yadav"/></a>
-	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="52" width="52" title='Gmail' alt="Soman Yadav Gmail"/></a>
-	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" title='LinkedIn' height="48" width="48 alt="Soman Yadav LinkedIn"/></a>	
+	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="54" width="54" title='Gmail' alt="Soman Yadav Gmail"/></a>
+	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" title='LinkedIn' height="52" width="52" alt="Soman Yadav LinkedIn"/></a>	
 </p>
 
   
