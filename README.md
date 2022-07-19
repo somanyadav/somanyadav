@@ -46,7 +46,7 @@ A college undergrad in major Computer Science with proficient technical and prob
 <p align="center">
   <!-- <a href="google.com"><img src="[https://img.icons8.com/bubbles/50/000000/web.png](https://static.wixstatic.com/media/e00768_edb717df67294796868ee949e2c8bab9~mv2.gif)" alt="Soman Yadav"/></a> -->
 	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" title='Gmail' alt="Soman Yadav Gmail"/></a>
-	<a href="https://github.com/sid121212"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="Soman Yadav GitHub"/></a>
+	<a href="https://github.com/somanyadav"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="Soman Yadav GitHub"/></a>
 	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" title='LinkedIn' alt="Soman Yadav LinkedIn"/></a>	
 </p>
 
