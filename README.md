@@ -3,7 +3,7 @@
 A college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
 <h2> 📬 Connect with me. </h2>
-
+<center>
 <a href="https://www.linkedin.com/in/somanyadav/">
   <img align="center" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="48" width="48"/>
 </a>
@@ -19,7 +19,7 @@ A college undergrad in major Computer Science with proficient technical and prob
 <a href="SomanYadav#5507">
   <img align="center" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="48" width="48"/>
 </a>
-
+</center>
 <br>
 <br>
 <br>
