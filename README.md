@@ -2,24 +2,6 @@
  
 A college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
-<h2> 📬 Connect with me. </h2>
-<center>
-<a href="https://www.linkedin.com/in/somanyadav/">
-  <img align="center" alt="Vasu's LinkedIn" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="48" width="48"/>
-</a>
-
-<a href="https://twitter.com/therealsoman">
-  <img align="center" alt="Soman's Twitter" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="48" width="48"/>
-</a>
-
-<a href="mailto:somanyadavofficial@gmail.com">
-  <img align="center" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" height="52" width="52"/>
-</a>
-
-<a href="SomanYadav#5507">
-  <img align="center" alt="Soman's Email" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="48" width="48"/>
-</a>
-</center>
 <br>
 <br>
 <br>
@@ -59,6 +41,14 @@ A college undergrad in major Computer Science with proficient technical and prob
 </a>
 </p>
 
+
+<h2> 📬 Connect with me. </h2>
+<p align="center">
+  <!-- <a href="google.com"><img src="[https://img.icons8.com/bubbles/50/000000/web.png](https://static.wixstatic.com/media/e00768_edb717df67294796868ee949e2c8bab9~mv2.gif)" alt="Soman Yadav"/></a> -->
+	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://cliply.co/wp-content/uploads/2019/03/371902260_SENDING_MAIL_400.gif" title='Gmail' alt="Soman Yadav Gmail"/></a>
+	<a href="https://github.com/sid121212"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="Soman Yadav GitHub"/></a>
+	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" title='LinkedIn' alt="Soman Yadav LinkedIn"/></a>	
+</p>
 
   
 ![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
