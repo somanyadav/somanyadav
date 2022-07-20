@@ -25,7 +25,7 @@ A college undergrad in major Computer Science with proficient technical and prob
  
 ![Soman Yadav Medium](https://i.imgur.com/BHQizOP.png)
 
-<a href="https://blogs.somanyadav.tech/"> ➡️ more blog posts..</a>
+<a href="#"> ➡️ more blog posts..</a>
 </p>
 
 
