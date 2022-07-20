@@ -4,8 +4,7 @@
 A college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
 
 <br>
-<br>
-<br>
+
 
 <h2> Languages and Tools: </h2>
 
