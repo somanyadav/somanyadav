@@ -30,7 +30,7 @@ A college undergrad in major Computer Science with proficient technical and prob
 
 
 
-
+<h2> 🔥 Streak Stats & Languages </h2>
 <p align="center">
   
 <a href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
