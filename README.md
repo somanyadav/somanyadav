@@ -1,3 +1,5 @@
+[https://www.linkedin.com/in/somanyadav/]/user?username=[somanyadav]	
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Soman.</h1>
  
 A college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
