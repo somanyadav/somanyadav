@@ -23,7 +23,7 @@ A college undergrad in major Computer Science with proficient technical and prob
 <h2> 📕 Latest Blog Posts </h2>
 <p align="center">
  
-[![Soman Yadav Medium]([https://github-readme-medium.vercel.app/?username=somanyadav](https://i.imgur.com/BHQizOP.png))](https://medium.com/@somanyadav)
+![Soman Yadav Medium](https://i.imgur.com/BHQizOP.png)
 
 <a href="https://blogs.somanyadav.tech/"> ➡️ more blog posts..</a>
 </p>
