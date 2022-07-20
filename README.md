@@ -25,7 +25,7 @@ A college undergrad in major Computer Science with proficient technical and prob
  
 [![Soman Yadav Medium](https://github-readme-medium.vercel.app/?username=somanyadav)](https://medium.com/@somanyadav)
 
-<a href="https://blogs.somanyadav.tech/"> ➡️ more blog posts coming soon...</a>
+<a href="https://blogs.somanyadav.tech/"> ➡️ more blog posts..</a>
 </p>
 
 
