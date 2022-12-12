@@ -7,8 +7,6 @@ My unique blend of technical experience and creative problem-solving has allowed
 
 In addition to my studies, I'm a quick learner and always open to collaboration. I believe that stepping outside of your comfort zone is essential for personal growth, and I'm always looking for new challenges to tackle.<br>
 
-So, if you're interested in connecting with a fellow LinkedIn-er who's always up for a good challenge, give me a shout. I'm looking forward to connecting with you!<br>
-
 
 
 
