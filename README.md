@@ -1,9 +1,15 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Soman.</h1>
  
-A college undergrad in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
+Hi there! My name is Soman, and I'm a computer science student who's passionate about Web Development, Machine Learning and Data Science. If you're looking to expand your network or just want to connect with a fellow learner, I'm your guy.<br>
 
-<br>
+My unique blend of technical experience and creative problem-solving has allowed me to work on a range of innovative projects, from creating YouTube summarization models to developing stock prediction apps.<br>
+
+In addition to my studies, I'm a quick learner and always open to collaboration. I believe that stepping outside of your comfort zone is essential for personal growth, and I'm always looking for new challenges to tackle.<br>
+
+So, if you're interested in connecting with a fellow LinkedIn-er who's always up for a good challenge, give me a shout. I'm looking forward to connecting with you!<br>
+
+
 
 
 <h2> Languages and Tools: </h2>
