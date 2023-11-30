@@ -1,11 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Soman.</h1>
  
-Hi there! My name is Soman, and I'm a computer science student who's passionate about Web Development, Machine Learning and Data Science. If you're looking to expand your network or just want to connect with a fellow learner, I'm your guy.<br>
-
-My unique blend of technical experience and creative problem-solving has allowed me to work on a range of innovative projects, from creating YouTube summarization models to developing stock prediction apps.<br>
-
-In addition to my studies, I'm a quick learner and always open to collaboration. I believe that stepping outside of your comfort zone is essential for personal growth, and I'm always looking for new challenges to tackle.<br>
+Navigating responsible AI with a keen focus on robust technology policy and socio-technical implementation. I stand as a dedicated voice for Data Scientists in policy and MLOps meetings. A swift learner and collaboration enthusiast, I embrace the motto of "seeking discomfort" as a pathway to growth and unlocking hidden potential.
 
 
 
