@@ -1,9 +1,5 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Soman.</h1>
- 
-Navigating responsible AI with a keen focus on robust technology policy and socio-technical implementation. I stand as a dedicated voice for Data Scientists in policy and MLOps meetings. A swift learner and collaboration enthusiast, I embrace the motto of "seeking discomfort" as a pathway to growth and unlocking hidden potential.
-
-
 
 
 <h2> Languages and Tools: </h2>
