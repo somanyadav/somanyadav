@@ -30,28 +30,9 @@ Navigating responsible AI with a keen focus on robust technology policy and soci
 
 
 
-<h2> 🔥 Streak Stats & Languages </h2>
-<p align="center">
-  
-<a href="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=somanyadav&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true">
-  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=somanyadav&hide_border=true" />
-</a>
-</p>
-
-
 <h2> 📬 Connect with me. </h2>
 <p align="center">
   <a href="https://www.somanyadav.tech/"><img src="https://static.wixstatic.com/media/e00768_edb717df67294796868ee949e2c8bab9~mv2.gif" height="48" width="48" title:'Website' alt="Soman Yadav"/></a>
 	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://i.imgur.com/UYxdF7V.gif" height="46" width="57" title='Gmail' alt="Soman Yadav Gmail"/></a>
 	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://i.imgur.com/HQ5b75u.gif" title='LinkedIn' height="50" width="60" alt="Soman Yadav LinkedIn"/></a>	
 </p>
-
-  
-![snake gif](https://github.com/somanyadav/somanyadav/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
