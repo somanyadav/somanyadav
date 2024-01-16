@@ -25,14 +25,12 @@ Navigating responsible AI with a keen focus on robust technology policy and soci
  
 ![Soman Yadav Medium](https://i.imgur.com/BHQizOP.png)
 
-<a href="https://blogs.somanyadav.tech/"> ➡️ more blog posts..</a>
 </p>
 
 
 
 <h2> 📬 Connect with me. </h2>
 <p align="center">
-  <a href="https://www.somanyadav.tech/"><img src="https://static.wixstatic.com/media/e00768_edb717df67294796868ee949e2c8bab9~mv2.gif" height="48" width="48" title:'Website' alt="Soman Yadav"/></a>
 	<a href="mailto:somanyadavofficial@gmail.com"><img src="https://i.imgur.com/UYxdF7V.gif" height="46" width="57" title='Gmail' alt="Soman Yadav Gmail"/></a>
 	<a href="https://www.linkedin.com/in/somanyadav/"><img src="https://i.imgur.com/HQ5b75u.gif" title='LinkedIn' height="50" width="60" alt="Soman Yadav LinkedIn"/></a>	
 </p>
